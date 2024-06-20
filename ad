@@ -1,0 +1,95 @@
+[33mcommit 72d57539744c9e2c22085df8d5414390c30c096d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: logickkun <c.hyunmyung@gmail.com>
+Date:   Fri Jun 21 00:08:00 2024 +0900
+
+    업데이트
+
+[33mcommit 7e7c63e9fcca0a1acb8c30b375fcdcb049d66e64[m
+Author: logickkun <c.hyunmyung@gmail.com>
+Date:   Fri Jun 21 00:01:51 2024 +0900
+
+    업데이트
+
+[33mcommit fa0deae8de8d464ede531bf2d8941fa01e3037fd[m
+Merge: ea59125 6c0004b
+Author: logickkun <c.hyunmyung@gmail.com>
+Date:   Thu Jun 20 23:56:14 2024 +0900
+
+    Merge branch 'main' of https://github.com/logickkun/SpringBoot3-JWT-OAUTH2
+
+[33mcommit ea59125429a3f84d58c501ea4eef3cbdd0a150e7[m
+Author: logickkun <c.hyunmyung@gmail.com>
+Date:   Thu Jun 20 23:53:50 2024 +0900
+
+    업데이트
+
+[33mcommit 6c0004b9603c3e393b7ea51de47fc82591de6f77[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: logickkun <164758981+logickkun@users.noreply.github.com>
+Date:   Thu Jun 13 08:39:27 2024 +0900
+
+    Update README.md
+
+[33mcommit f92f7a7de955e0f558a7c2cd13ec40f92c11139b[m
+Author: logickkun <164758981+logickkun@users.noreply.github.com>
+Date:   Thu Jun 13 08:38:55 2024 +0900
+
+    Update README.md
+
+[33mcommit 88d4f2dc1089be1cb5a35e57e3478f2694255f14[m
+Author: logickkun <164758981+logickkun@users.noreply.github.com>
+Date:   Thu Jun 13 08:38:14 2024 +0900
+
+    Update README.md
+
+[33mcommit 9501cc46c5b859667f8f63d2be5adb6ac5d2f935[m
+Author: logickkun <c.hyunmyung@gmail.com>
+Date:   Tue Jun 11 10:15:13 2024 +0900
+
+    ci.yml > cicd.yml
+
+[33mcommit c482b2f15d8fc38548f83da22523054283106da7[m
+Merge: d89adcb 20c4d15
+Author: logickkun <c.hyunmyung@gmail.com>
+Date:   Tue Jun 11 09:56:10 2024 +0900
+
+    Merge branch 'main' of https://github.com/logickkun/SpringBoot3-JWT-OAUTH2
+
+[33mcommit d89adcba582811a723cd3bc5e3735acb71ce39aa[m
+Author: logickkun <c.hyunmyung@gmail.com>
+Date:   Tue Jun 11 09:54:49 2024 +0900
+
+    CI 추가
+
+[33mcommit 20c4d151ee79354ccf8a04c9bf0da55ba132487f[m
+Author: logickkun <164758981+logickkun@users.noreply.github.com>
+Date:   Tue Jun 11 09:15:31 2024 +0900
+
+    Update README.md
+
+[33mcommit 6bd44289b30bceedfad75ace06f2f5781fed7653[m
+Author: logickkun <164758981+logickkun@users.noreply.github.com>
+Date:   Tue Jun 11 09:13:43 2024 +0900
+
+    Update README.md
+
+[33mcommit f1daf3f6644f79b4d2f1496e6f8722b7b99caed8[m
+Author: logickkun <164758981+logickkun@users.noreply.github.com>
+Date:   Tue Jun 11 09:09:31 2024 +0900
+
+    Update README.md
+    
+    JWT OATUTH2 LOGIN
+
+[33mcommit e99c6cb5b6943a8dfde6958ec181f5ce9c1f4f0c[m
+Author: logickkun <164758981+logickkun@users.noreply.github.com>
+Date:   Tue Jun 11 09:08:41 2024 +0900
+
+    Create README.md
+    
+    ㅇㅇㅇ
+
+[33mcommit 1eb132d953564584b9c8dc679b899ca378133643[m
+Author: logickkun <c.hyunmyung@gmail.com>
+Date:   Tue Jun 11 09:07:47 2024 +0900
+
+    jwt_oauth2_login
